@@ -1,0 +1,14 @@
+HƯỚNG DẪN DEPLOY LÊN GITHUB PAGES (BẰNG GITHUB WEB UI)
+1. Tạo repository mới trên GitHub, đặt tên tùy ý (ví dụ: ho-ten_mssv)
+2. Upload toàn bộ nội dung thư mục `ho-ten_mssv` lên branch `main` (hoặc `master`).
+   - Trên GitHub: Add file -> Upload files -> kéo thả toàn bộ file trong thư mục.
+3. Commit thay đổi.
+4. Vào Settings repo -> Pages (hoặc Code and automation -> Pages tuỳ giao diện)
+   - Source: chọn branch `main` và folder `/ (root)` -> Save.
+5. Sau vài phút, GitHub sẽ cung cấp URL dạng `https://<username>.github.io/<repo>/`
+6. Mở URL đó để kiểm tra. Nếu hiển thị CV, copy đường link.
+7. Mở file `github_page_link.txt` trong thư mục, dán đường link GitHub Pages vào và lưu.
+8. Tải xuống toàn bộ thư mục `ho-ten_mssv` (hoặc nén) và chuyển vào ổ đĩa Z của bạn.
+   - Nếu bạn dùng Windows: giải nén zip và copy thư mục `ho-ten_mssv` vào Z:9. **Chú ý thời gian nộp:** làm trong khung 8:30–10:30 theo yêu cầu người nộp.
+
+Nếu cần mình có thể hướng dẫn cụ thể từng bước với ảnh chụp màn hình (yêu cầu) hoặc tạo file README tiếng Anh.
